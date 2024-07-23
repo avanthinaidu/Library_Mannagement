@@ -247,9 +247,9 @@ public class library_management
 		Calendar cal = Calendar.getInstance();
 		Student[] array =new Student[3];
 		//Add student Details
-		array[0]=new Student("Rajvi",1741078,"B.Tech-ICT");
-		array[1]=new Student("Krushna",1741086,"B.Tech-ICT");
-		array[2]=new Student("Kalagee",1741052,"B.Tech-ICT");
+		array[0]=new Student("Avanthi",21NN1A1202,"B.Tech-ICT");
+		array[1]=new Student("jyothi",21NN1A1261,"B.Tech-ICT");
+		array[2]=new Student("ramya",21NN1A1227,"B.Tech-ICT");
 		int [][] arr=new int[100][2];
 		
 		//Create file to store data of students.
